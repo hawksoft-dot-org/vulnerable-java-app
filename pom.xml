@@ -9,7 +9,13 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <dependencies>
+ <scm>
+    <url>https://github.com/rjackson64840/vulnerable-java-app</url>
+    <connection>scm:git:git://github.com/rjackson64840/vulnerable-java-app.git</connection>
+    <developerConnection>scm:git:git@github.com:rjackson64840/vulnerable-java-app.git</developerConnection>
+ </scm>
+         
+ <dependencies>
     <!-- https://mvnrepository.com/artifact/org.apache.struts/struts2-core -->
     <dependency>
       <groupId>com.auth0</groupId>
