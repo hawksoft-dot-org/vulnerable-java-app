@@ -27,7 +27,7 @@
     <!--</dependency>-->
 
 
-    <!-- B: Coordinate with no vulnerability in HDS: False positive -->
+    <!-- B: Coordinate with no vulnerability in HDS: False positive  -->
     <dependency>
       <groupId>com.ning</groupId>
       <artifactId>async-http-client</artifactId>
