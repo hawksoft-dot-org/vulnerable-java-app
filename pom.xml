@@ -27,44 +27,14 @@
     <!--</dependency>-->
 
 
-    <!-- B: Coordinate with no vulnerability in HDS: False positive  -->
-    <dependency>
-      <groupId>com.ning</groupId>
-      <artifactId>async-http-client</artifactId>
-      <version>1.9.0</version>
-    </dependency>
-    <dependency>
-      <groupId>com.adobe.xmp</groupId>
-      <artifactId>xmpcore</artifactId>
-      <version>5.1.0</version>
-    </dependency>
-
-    <!-- D. No immediate CVE match, CVE in HDS: False positive -->
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-core</artifactId>
-      <version>4.2.0.RELEASE</version>
-    </dependency>
-
-    <!-- E: No immediate CVE match, CVE NOT in HDS: Continue to true -->
-    <dependency>
-      <groupId>org.apache.commons</groupId>
-      <artifactId>commons-collections4</artifactId>
-      <version>4.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.opensaml</groupId>
-      <artifactId>opensaml</artifactId>
-      <version>2.4.1</version>
-    </dependency>
-
-   <!--
-
    <dependency>
      <groupId>com.auth0</groupId>
      <artifactId>java-jwt</artifactId>
      <version>3.3.0</version>
    </dependency>
+ 
+   <!--
+
     <dependency>
       <groupId>com.auth0</groupId>
       <artifactId>java-jwt</artifactId>
