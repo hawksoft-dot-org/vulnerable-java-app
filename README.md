@@ -1,3 +1,3 @@
-![depshield](https://jhmsb5jmed.execute-api.us-east-2.amazonaws.com/prod/badges/rjackson64840/vulnerable-java-app/depshield.svg)
+![depshield](https://staging.depshield.sonatype.org/badges/rjackson64840/vulnerable-java-app/depshield.svg)
 
 # vulnerable-java-app
