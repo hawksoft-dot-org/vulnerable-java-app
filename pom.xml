@@ -32,12 +32,12 @@
      <version>3.3.0</version>
    </dependency>
  
-
     <dependency>
-      <groupId>com.auth0</groupId>
-      <artifactId>java-jwt</artifactId>
-      <version>3.3.0</version>
+      <groupId>org.opensaml</groupId>
+      <artifactId>opensaml</artifactId>
+      <version>2.4.1</version>
     </dependency>
+
     <!--
    <dependency>
       <groupId>org.apache.struts</groupId>
