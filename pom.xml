@@ -17,7 +17,13 @@
 
  <dependencies>
 
-    <!-- test scenarios/data captured from:  https://docs.sonatype.com/display/DATA/False+Positive+Reduction -->
+     <dependency>
+      <groupId>org.springframework.amqp</groupId>
+      <artifactId>spring-amqp</artifactId>
+      <version>1.3.0.RELEASE</version>
+    </dependency>
+
+          <!-- test scenarios/data captured from:  https://docs.sonatype.com/display/DATA/False+Positive+Reduction -->
 
     <!-- A: Coordinate not in HDS: True positive -->
     <!--<dependency>-->
